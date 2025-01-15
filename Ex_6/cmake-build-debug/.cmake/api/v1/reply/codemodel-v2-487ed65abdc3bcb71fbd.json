@@ -1,0 +1,123 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "EX6",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "EX6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-EX6-Debug-851837e00c5c37df1e9b.json",
+					"name" : "EX6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEX6_1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEX6_1-Debug-6e6a06ee097ac7fa6712.json",
+					"name" : "RunEX6_1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEX6_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEX6_2-Debug-9e1a4c7744d0b16a538f.json",
+					"name" : "RunEX6_2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEX6_3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEX6_3-Debug-8f7d2b40dcdee162145d.json",
+					"name" : "RunEX6_3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEX6_4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEX6_4-Debug-8ba4d3a9f637942d69fa.json",
+					"name" : "RunEX6_4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEX6_5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEX6_5-Debug-d872b9af2cafb73f8466.json",
+					"name" : "RunEX6_5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEX6_6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEX6_6-Debug-4f01a51cfe600f0c50ab.json",
+					"name" : "RunEX6_6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "run::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-run-Debug-60856a4caac14aa5b5d1.json",
+					"name" : "run",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Private/Class Term 8/Algorithm/EX6/cmake-build-debug",
+		"source" : "D:/Private/Class Term 8/Algorithm/EX6"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

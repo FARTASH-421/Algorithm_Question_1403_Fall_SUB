@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Ex5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Ex5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Ex5-Debug-4af04417127c965a4575.json",
+					"name" : "Ex5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEx1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEx1-Debug-c57b3af0780be6ff67bd.json",
+					"name" : "RunEx1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEx2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEx2-Debug-19ff4646782430ba3d89.json",
+					"name" : "RunEx2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEx3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEx3-Debug-a61c43a745d4bb9f2802.json",
+					"name" : "RunEx3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEx4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEx4-Debug-7edb08c832588f52228b.json",
+					"name" : "RunEx4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEx5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEx5-Debug-3285b577d7b9553fcfeb.json",
+					"name" : "RunEx5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "RunEx6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-RunEx6-Debug-b8634716088e1fa38680.json",
+					"name" : "RunEx6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/Private/Class Term 8/Algorithm/Ex5/cmake-build-debug",
+		"source" : "D:/Private/Class Term 8/Algorithm/Ex5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}
